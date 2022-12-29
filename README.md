@@ -4,7 +4,13 @@ Hi 👋 My name is Mike M. Veckovic
 Frontend Developer / Web3 Developer
 -----------------------------------
 
-I have 10 years of experience building and designing web-based applications. Currently, I love to work on web application using technologies like React JS, Tailwind, Next JS, Solidity and Hardhat. Why I like to code I like to code because it allows me to create and build things that have a practical application. It is a challenging and rewarding process, and I enjoy the problem-solving and logical thinking that it requires. Coding also allows me to express my creativity in a tangible way, and I find it satisfying to see my ideas come to life through code. Additionally, the field of programming is constantly evolving and there is always something new to learn, which keeps me engaged and motivated. When I'm not coding, besides playing sports I am creating digital art using Photoshop & Blender.
+I have 10 years of experience building and designing web-based applications. Currently, I love to work on web application using technologies like React JS, Tailwind, Next JS, Solidity and Hardhat.
+
+Why I like to code
+
+I like to code because it allows me to create and build things that have a practical application. It is a challenging and rewarding process, and I enjoy the problem-solving and logical thinking that it requires. Coding also allows me to express my creativity in a tangible way, and I find it satisfying to see my ideas come to life through code. Additionally, the field of programming is constantly evolving and there is always something new to learn, which keeps me engaged and motivated. 
+
+When I'm not coding, besides playing sports I am creating digital art using Photoshop & Blender.
 
 * 🌍  I'm based in NYC
 * 🖥️  See my portfolio at [My Portfolio](http://mveckovic.com)
