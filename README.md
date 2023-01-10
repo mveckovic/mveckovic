@@ -1,4 +1,4 @@
-Hi 👋 My name is Mike M. Veckovic
+Hi 👋 My name is Mike M. Veckovic 
 ================================= 
 
 Frontend Developer / Web3 Developer
