@@ -12,6 +12,9 @@ I like to code because it allows me to create and build things that have a pract
 
 When I'm not coding, besides playing sports I am creating digital art using Photoshop & Blender.
 
+
+I'm currently working on project - AI image generator.
+
 * 🌍  I'm based in NYC
 * 🖥️  See my portfolio at [My Portfolio](http://mveckovic.com)
 * ✉️  You can contact me at [contact@mveckovic.com](mailto:contact@mveckovic.com)
