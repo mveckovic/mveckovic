@@ -4,13 +4,13 @@ Hi 👋 My name is Mike M. Veckovic
 Frontend Developer / Web3 Developer 
 -----------------------------------
 
-I have 20 years of experience building and designing web-based applications. Currently, I love to work on web application using technologies like React JS, Tailwind, shadcn, Next JS, Solidity, Foundry and Hardhat.
+With over 20 years of experience building and designing web-based applications, I specialize in full-stack development using technologies like React JS, React Native, Next.js, Solidity, Foundry, and Hardhat.
+
+Recently, I've expanded my toolkit through client projects involving cutting-edge AI-powered no-code platforms, including Framer, Lovable, Base44, Rork, Bolt.new, and Google AI Studio (powered by Gemini).
 
 Why I like to code
 
-I like to code because it allows me to create and build things that have a practical application. It is a challenging and rewarding process, and I enjoy the problem-solving and logical thinking that it requires. Coding also allows me to express my creativity in a tangible way, and I find it satisfying to see my ideas come to life through code. Additionally, the field of programming is constantly evolving and there is always something new to learn, which keeps me engaged and motivated. 
-
-When I'm not coding, besides playing sports I am creating digital art using Photoshop & Blender.
+I love coding because it enables me to create practical, real-world solutions. It's a deeply challenging and rewarding process that demands problem-solving and logical thinking. Coding allows me to express creativity in tangible ways, bringing ideas to life through elegant implementations. The ever-evolving nature of the field keeps me constantly learning and motivated—whether through traditional development or innovative no-code tools that accelerate prototyping and delivery.
 
 
 I'm currently working on project - AI image generator.
